@@ -1,0 +1,12 @@
+engage_button: 0 # x-button
+brake_button: 1 # O-button
+
+mode_button1: 4 # L1-button
+mode_button2: 5 # R1-button
+mode_button3: 2 # Triangle-button
+
+axis_linear: 1 # throttling (up-down joystick)
+axis_angular: 3 # direction (left-right joystick)
+
+scale_linear: 1000 
+scale_angular: 1000
