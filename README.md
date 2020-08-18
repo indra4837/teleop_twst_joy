@@ -1,6 +1,6 @@
 # Teleop Twist Joystick
 
-This package contains a teleop_twist_node to send command velocities to the vehiclee
+This package contains a teleop_twist_node to send command velocities to the vehicle
 
 [Decision flowchart of teleop_twist_node](docs/teleop_node_decision_flowchart.jpeg)
 
